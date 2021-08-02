@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.content {
+	display: flex;
+	margin-left: 12%;
+	margin-top: 10%;
+}
+.table_content {
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+table {
+	height: 400px;
+	width: 100%;
+	font-size: 72px;
+	text-align: center;
+}
+
+input {
+	width: 135px;
+	text-indent: 45px;
+}
